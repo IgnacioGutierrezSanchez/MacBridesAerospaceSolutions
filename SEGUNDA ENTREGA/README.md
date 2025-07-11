@@ -82,17 +82,20 @@ Predecir con precisión el tiempo que una aeronave tarda en despegar desde que l
 
 ```bash
 git clone https://github.com/tu_usuario/macbrides-aerospace.git
-cd macbrides-aerospace````
+cd macbrides-aerospace
+```
 
 2. Instala las dependencias:
 
 ```bash
-pip install -r requirements.txt````
+pip install -r requirements.txt
+```
 
 3. Ejecuta los scripts:
 
 ```bash
 python scripts/preprocess.py
-python scripts/train_model.py````
+python scripts/train_model.py
+```
 
 
